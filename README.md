@@ -1,4 +1,4 @@
-# ACP-BE
+# ACP-FE
 To create a project that tracks the progress for a company with various roles and responsibilities, we need to design a system that supports the different functionalities for admins, managers, chapter leads, and employees. Here is a conceptual overview of how you can structure this project:
 
 # Define Roles and Responsibilities
